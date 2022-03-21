@@ -1,2 +1,2 @@
-# Travel-Journal
-React props
+# Splash Image Mask using Html CSS
+
